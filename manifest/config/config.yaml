@@ -1,0 +1,14 @@
+server:
+  address:     ":8000"
+  openapiPath: "/api.json"
+  swaggerPath: "/swagger"
+
+logger:
+  level : "all"
+  stdout: true
+
+dirmap:
+  238FDEDC-20DC-B06E-1D32-AD511C637A23: ./
+
+
+
